@@ -26,7 +26,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://viktiv02.github.io/pokedex/",
+  "homepage": "https://viktiv02.github.io/pokedex-viktor-2/",
   "browserslist": {
     "production": [
       ">0.2%",

@@ -60,7 +60,7 @@ function Pokemon() {
         <p>Weight: {pokemon.weight}</p>
       </div>
      </div>
-     <Link to="/pokedex">
+     <Link to="/pokedex-viktor-2">
       Back
      </Link>
      </div>
