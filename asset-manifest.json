@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokedex-viktor-2/static/css/main.d7ee8ccf.css",
+    "main.js": "/pokedex-viktor-2/static/js/main.ed2c01fe.js",
+    "static/js/453.ac4c0547.chunk.js": "/pokedex-viktor-2/static/js/453.ac4c0547.chunk.js",
+    "index.html": "/pokedex-viktor-2/index.html",
+    "main.d7ee8ccf.css.map": "/pokedex-viktor-2/static/css/main.d7ee8ccf.css.map",
+    "main.ed2c01fe.js.map": "/pokedex-viktor-2/static/js/main.ed2c01fe.js.map",
+    "453.ac4c0547.chunk.js.map": "/pokedex-viktor-2/static/js/453.ac4c0547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ee8ccf.css",
+    "static/js/main.ed2c01fe.js"
+  ]
+}
